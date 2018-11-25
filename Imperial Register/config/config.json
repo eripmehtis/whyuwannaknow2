@@ -1,0 +1,27 @@
+{
+    "token": "NTE2MjYzNjExODMyOTkxNzQ1.DtxHlQ.2lHGKU7E1CuVK0rpemKGjJg61po",
+    "dbl_token": "",
+    "owners": [304735661104037888],
+    "database": {
+        "user": "marriagebot" ,
+        "password": "",
+        "database": "marriagebot",
+        "host": "127.0.0.1"
+    },
+    "presence_text": "IR!help",
+    "default_prefix": "IR!",
+    "google_analytics": {
+        "tracking_id": "",
+        "app_name": "",
+        "document_host": ""
+    },
+    "initial_cogs": [],
+    "tree_file_location": "./trees",
+    "dbl_vainity": "",
+    "github": "",
+    "patreon": "",
+    "log_channel": "01011" ,
+    "chat_channel": "01011" ,
+    "stream_channel": "01011" ,
+    "guild": ""
+}
